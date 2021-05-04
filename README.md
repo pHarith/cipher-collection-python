@@ -1,4 +1,4 @@
-#Cipher Algorithms
+Cipher Algorithms
 
 cipher-algo-python is a collection of cipher algorithms written in python. These algorithms are used for encrypting and decrypting messages for security purposes.
 
